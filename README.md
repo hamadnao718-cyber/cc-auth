@@ -1,4 +1,4 @@
-# Stripe Auth Checker AU
+# Stripe Auth Checker
 
 A professional Stripe authentication and card validation tool
 
